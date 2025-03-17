@@ -1,0 +1,2 @@
+C:/Users/user/Downloads/tugas/LatihanFlutterKampus-FilterKamera-main/android/app/.cxx/Debug/5q1o5j6m/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/user/Downloads/tugas/LatihanFlutterKampus-FilterKamera-main/android/app/.cxx/Debug/5q1o5j6m/arm64-v8a/CMakeFiles/rebuild_cache.dir
